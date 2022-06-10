@@ -6,6 +6,8 @@ Objective - Forecasting using ARIMA, SARIMA and Facebook Prophet
 
 Data - Amazon Stock Proces from 1997 to 2022
 
+Downlaod teh data from https://finance.yahoo.com/quote/AMZN/history/
+
 Forecasting is done by 
 1. ARIMA
 2. SARIMA
