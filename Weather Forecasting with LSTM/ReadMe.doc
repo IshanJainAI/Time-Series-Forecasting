@@ -1,7 +1,0 @@
-Objective => to forecast temperature values. 
-
-Time Series - Univariate Model
-
-Data => USA_SolarPlant_climate_2009_2016.csv
-
-Use only Temperature. 
