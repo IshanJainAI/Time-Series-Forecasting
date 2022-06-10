@@ -1,0 +1,5 @@
+Objective - to forecast sales of a retail store-chain
+
+Data: American Retail Chain
+
+VARMAX model is used to forecast weekly sales of multipel stores at the same time (Multivariate TimeSeries)
